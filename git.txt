@@ -14,9 +14,10 @@ git commit
 git push
 git pull
 
-git clone
+git clone URL
+git remote add Data URL
 
-git branch
+git branch 
 git merge
 
 
